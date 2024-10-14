@@ -3,7 +3,7 @@ package uniseg_test
 import (
 	"fmt"
 
-	"github.com/rivo/uniseg"
+	"github.com/01ne/uniseg"
 )
 
 func ExampleGraphemeClusterCount() {
